@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-void contarCaracteres(char frase[]);
+void ordenarCaracteres(char frase[]);
 void eliminarCaracteres(char frase[]);
 
 int main()
